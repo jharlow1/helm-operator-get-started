@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: jharlow1/podinfo
-      tag: dev-70z6m6rf
+      tag: dev-ryjbhlb9
     replicaCount: 1
     hpa:
       enabled: false
