@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: jharlow1/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-uu9gpijc
     replicaCount: 2
     hpa:
       enabled: true
