@@ -15,5 +15,5 @@ spec:
   values:
     image:
       repository: jharlow1/podinfo
-      tag: 0.4.1
+      tag: 0.4.2
     replicaCount: 3
